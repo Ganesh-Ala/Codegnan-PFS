@@ -1,0 +1,13 @@
+print("This is My Introduction.")
+print("------------------------")
+print("Email: yourname@gmail.com")
+print("Batch: PFS-72")
+print("Module: PYTHON")
+print("Timings: 9am to 11am")
+print("------------------------")
+print("My Education Background")
+print("B.Tech, CSE-DataScience")
+print("My GitHub URL: https://github.com/Ganesh-Ala")
+print("My LinkedIn URL: https://www.linkedin.com/in/ganesh-ala/")
+print('''My Technical Skills:Python, MySQL, FastAPI, Flask, AI Tools.
+''')
