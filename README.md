@@ -2,7 +2,7 @@
 
 Welcome to my structured learning journey toward becoming a **Python Full Stack Developer**.
 
-This repository documents my daily training, coding practice, assignments, technical concepts, mini-projects and practical implementations during my Python Full Stack Development training at **Codegnan, Hyderabad**.
+This repository documents my daily classroom learning, coding practice, assignments, technical concepts, mini-projects, and practical implementations during my Python Full Stack Development training at **Codegnan, Hyderabad**.
 
 ## Training Information
 
@@ -10,9 +10,24 @@ This repository documents my daily training, coding practice, assignments, techn
 |---|---|
 | Institute | Codegnan |
 | Course | Python Full Stack Development |
-| Training Start Date | 20 November 2026 |
-| Training Schedule | 9:00 AM – 6:00 PM |
+| Course Start Date | 20 November 2026 |
+| Official Regular Classes Start | 23 November 2026 |
+| Batch | PFS-HYD-072 |
+| Regular Class Schedule | Monday – Saturday, 9:00 AM – 1:00 PM |
 | Repository Owner | Ala Ganesh |
+
+## Daily Classroom Records
+
+This section provides quick access to my official daily classroom documentation.
+
+| Day | Date | Python | Aptitude | Soft Skills | Documentation |
+|---|---|---|---|---|---|
+| Day 01 | 23 Nov 2026 | GitHub & LinkedIn Introduction | Orientation | Orientation | [View Day 01](Day-01/README.md) |
+| Day 02 | 24 Nov 2026 | Git & GitHub – First Commit | Number System – Fractions | Self-Introduction | [View Day 02](Day-02/README.md) |
+| Day 03 | 25 Nov 2026 | Python `print()` Function | Prime Factors | Self-Introduction Presentation | [View Day 03](Day-03/README.md) |
+| Day 04 | 26 Nov 2026 | Python Fundamentals, Variables & `id()` | Number System – Divisibility & Remainders | Classmate Presentations – Observation | [View Day 04](Day-04/README.md) |
+
+*New daily records will be added as the training progresses.*
 
 ## Learning Objectives
 
@@ -27,9 +42,27 @@ This repository documents my daily training, coding practice, assignments, techn
 - Understand Git, GitHub, debugging and deployment.
 - Prepare for entry-level Python Developer and Full Stack Developer opportunities.
 
-Folders and files will be added progressively as the training syllabus advances.
+## Repository Structure
 
-*Daily entries will be added as training progresses.*
+```text
+Codegnan-Python-Full-Stack/
+│
+├── README.md
+│
+├── Day-01/
+│   └── README.md
+│
+├── Day-02/
+│   └── README.md
+│
+├── Day-03/
+│   └── README.md
+│
+├── Day-04/
+│   └── README.md
+│
+└── [Future Daily Records]
+```
 
 ## Practical Work
 
@@ -41,6 +74,8 @@ This repository will contain:
 - Mini-projects and capstone projects.
 - Notes and important programming concepts.
 - Corrections, improvements and debugging practice.
+
+**Note:** Official classroom learning and independent practice sessions are maintained separately to keep the documentation organized.
 
 ## Tools & Technologies
 
@@ -63,11 +98,9 @@ My goal is not simply to complete the training syllabus. I aim to understand con
 
 B.Tech – Computer Science and Engineering (Data Science)
 
-Portfolio : https://alaganesh-portfolio.onrender.com/
-
-GitHub: https://github.com/Ala-Ganesh
-
-LinkedIn: https://www.linkedin.com/in/alaganesh
+- **Portfolio:** [alaganesh-portfolio.onrender.com](https://alaganesh-portfolio.onrender.com/)
+- **GitHub:** [Ganesh-Ala](https://github.com/Ganesh-Ala)
+- **LinkedIn:** [Ganesh Ala](https://www.linkedin.com/in/ganesh-ala/)
 
 ---
 
