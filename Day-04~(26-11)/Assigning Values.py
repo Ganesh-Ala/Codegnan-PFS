@@ -20,9 +20,8 @@ print("Number 3: ", num3)
 print("All Numbers: ", id(num1), id(num2), id(num3))
 print()
 
-print("Swaping Two Numbers:")
-a , b = 10, 20
-print("Before Swapping:", a, b, id(a), id(b))
-c = a,b = b,a
-print("After Swapping:",c)
-print(id(a), id(b), id(c))
+print("Swapping Two Numbers:")
+a, b = 10, 20
+print("Before Swapping:", a, b)
+a, b = b, a
+print("After Swapping:", a, b)
